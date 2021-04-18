@@ -1,0 +1,5 @@
+#ifndef SOLVER_CONNECTOR
+#define SOLVER_CONNECTOR
+
+#endif // SOLVER_CONNECTOR
+
