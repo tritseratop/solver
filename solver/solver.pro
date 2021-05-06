@@ -11,6 +11,8 @@ win32-g++ {
 } else:win32-msvc* {
 }
 
+INCLUDEPATH += G:\knowledge\UIRS\TESTS\solver\main_solver\solver\headers
+
 SOURCES += main.cpp \
     print_tools.cpp \
     schema.cpp \
